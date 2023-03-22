@@ -21,3 +21,15 @@ Deactivate virtual environment
 ```bash
 deactivate
 ```
+
+Create pynecone project
+
+```bash
+pc init
+```
+
+Run pynecone server
+
+```bash
+pc run
+```
